@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CNz8gENge6w=",
+  "dgSpecHash": "Z1BHrmHwDHY=",
   "success": true,
   "projectFilePath": "F:\\Projects\\GymProject\\GymProject\\GymProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
   "logs": []
 }

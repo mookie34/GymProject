@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projects\\GymProject\\GymProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymDB.cs",
+              "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
+              "RelativeDocumentMoniker": "BaseDatos\\GymDB.cs",
+              "ToolTip": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
+              "RelativeToolTip": "BaseDatos\\GymDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:09:09.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
