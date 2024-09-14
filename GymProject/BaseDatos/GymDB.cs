@@ -57,6 +57,7 @@ namespace GymProject.BaseDatos
             catch (Exception ex)
             {
                 Console.WriteLine("Error al insertar cliente: " + ex.Message);
+
                 throw;
             }
         }

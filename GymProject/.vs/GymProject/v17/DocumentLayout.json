@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|F:\\Projects\\GymProject\\GymProject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "BaseDatos\\GymDB.cs",
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
               "RelativeToolTip": "BaseDatos\\GymDB.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwDQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T20:09:09.823Z",
               "IsPinned": true,
@@ -65,8 +65,7 @@
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs [Dise\u00F1o]",
               "RelativeToolTip": "NewUsers.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:13:40.289Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-14T18:13:40.289Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T17:39:37.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T17:39:37.256Z"
             }
           ]
         }
