@@ -51,10 +51,6 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "SQLite": {
-              "target": "Package",
-              "version": "[3.13.0, )"
-            },
             "System.Data.SQLite": {
               "target": "Package",
               "version": "[1.0.118, )"

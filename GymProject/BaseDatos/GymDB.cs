@@ -5,7 +5,7 @@ namespace GymProject.BaseDatos
 {
     public class GymDB
     {
-        private static string connectionString = "Data Source=F:\\Projects\\GymProject\\GymProject\\BaseDatos\\gymDB.db;Version=3;Password=hola123";
+        private static string connectionString = "Data Source=F:\\Projects\\GymProject\\GymProject\\BaseDatos\\gymDB.db;Version=3;";
         public static void BdConnection()
         {
             try

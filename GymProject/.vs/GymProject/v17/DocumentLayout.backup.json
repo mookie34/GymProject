@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "F:\\Projects\\GymProject\\GymProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\basedatos\\gymdb.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:basedatos\\gymdb.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|F:\\Projects\\GymProject\\GymProject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GymDB.cs",
               "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
               "RelativeDocumentMoniker": "BaseDatos\\GymDB.cs",
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
               "RelativeToolTip": "BaseDatos\\GymDB.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwDQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T20:09:09.823Z",
               "IsPinned": true,
@@ -44,13 +48,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NewUsers.cs",
               "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
               "RelativeDocumentMoniker": "NewUsers.cs",
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
               "RelativeToolTip": "NewUsers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T17:57:52.005Z",
               "IsPinned": true,
@@ -58,7 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "gymDB.db",
+              "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\gymDB.db",
+              "RelativeDocumentMoniker": "BaseDatos\\gymDB.db",
+              "ToolTip": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\gymDB.db",
+              "RelativeToolTip": "BaseDatos\\gymDB.db",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJLSURBVEhLvZVfSBRBHMe/979Lgo0eOrUH00uus8IkIY1Q8SWjkHroMRQfhUjuNuugIgwvWfrzENFD4IPP1UsIQXGPBdF/wqILr0zqKbzb8v7s7kyze9M/2z\u002BtYh8YZn4zv9nP7uwMg1WFUurhTYNTo\u002BIs623goQOenEpwSJKkZ7zDlCWCJD03Ns4je86eTiEcDi/I30o9dhIvr5fFwOCQsK5mTUYUxVbe9RcrEkRq6xwlKxLoOEn8vLZEUTVkHj4F0Qh697Qh4K9OEQTB\u002BA\u002B/Ifi9yLB6fTWsYilYLJWRm/sEQilKxRIIIcjOfsSXhTxaW5oxkjjBM3/BhAJv/sRyiZ7PZJF9P49sbo59hQqVlZev3\u002BLD/Gc8fjHDs5yxFMSjDfCyTayyJerr3o2\u002Bng5DopftsSjPcsZSwA4himxpNPZAva0X/eE\u002BNoNQwrOcsRS8evOOv7GCW9P3cfPOPUO2WCziwSPbw/sHlgL9R9Zt3IBtsSZDomoKYlsaEW9uQldnO89yxlJQszaMro5d2BptZMvihZ\u002BVth1xdLbvxLXJKaQvX\u002BWZ9jieg2AwgKNH\u002Bo327em7bHmeQJZlqEoFw4lR9HbvxeGDB4xxMyy/wIxQKIRCoYDzKRHpMynk83lQdgDtcCXQKgqUSpntKGIUpVw2NoIdrgSEagj4fDiWPInh40kE/T58lQt81BxXgv79\u002B3D9ioT62gg21UcwNXkDQ4MDfNQcV4IfSONjuDRxgUf2LEvghlUXLLmTE\u002BzS9/zjpW8GzaUnLm7mwf8A\u002BA6x2OMj3Fc96AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-14T19:45:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NewUsers.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
               "RelativeDocumentMoniker": "NewUsers.cs",
@@ -70,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T17:39:37.256Z",
               "EditorCaption": ""
