@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:basedatos\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:newusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|f:\\projects\\gymproject\\gymproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8A07-7C91-415F-8756-9B2B5E67DD0B}|GymProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +36,49 @@
               "RelativeDocumentMoniker": "BaseDatos\\GymDB.cs",
               "ToolTip": "F:\\Projects\\GymProject\\GymProject\\BaseDatos\\GymDB.cs",
               "RelativeToolTip": "BaseDatos\\GymDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T20:09:09.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewUsers.cs",
+              "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
+              "RelativeDocumentMoniker": "NewUsers.cs",
+              "ToolTip": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
+              "RelativeToolTip": "NewUsers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:57:52.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewUsers.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs",
+              "RelativeDocumentMoniker": "NewUsers.cs",
+              "ToolTip": "F:\\Projects\\GymProject\\GymProject\\NewUsers.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NewUsers.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:13:40.289Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\GymProject\\GymProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projects\\GymProject\\GymProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:39:37.256Z",
               "EditorCaption": ""
             }
           ]
